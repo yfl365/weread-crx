@@ -1,1 +1,1 @@
-# weread-crx
+# wb-crx
